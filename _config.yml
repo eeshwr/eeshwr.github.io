@@ -1,0 +1,17 @@
+
+# Site settings
+title: ishwor bhandari
+subtitle: Machine Learning Blog
+email: eeshwr@gmail.com
+description: "master the fundamentals and rest become easy"
+baseurl: ""
+url: "https://eeshwr.github.io"
+twitter_username: eeshwr
+github_username:  eeshwr
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["node_modules"]
